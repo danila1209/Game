@@ -1,5 +1,7 @@
 package by.danila.nit;
 
 public class main {
-
+	public main(){
+		System.out.println("Hello!!!");
+	}
 }
